@@ -56,9 +56,10 @@
       "chat": 6516711533,
       "amount": 20000,
       "total": 20262,
-      "status": "pending",
+      "status": "waiting",
       "expired": 1777914796011,
-      "msg_id": 160
+      "msg_id": 160,
+      "bukti": "AgACAgUAAxkBAAOhafjRXB_rZyoRjZytNYRFbSJ2fWAAAsQPaxvl-8lXU9UuJhVjolUBAAMCAAN5AAM7BA"
     }
   ]
 }
