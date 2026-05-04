@@ -2,7 +2,7 @@
   "users": [
     {
       "name": "CRAZYBOTZZERA",
-      "saldo": 2000,
+      "saldo": 3000,
       "coin": 0
     }
   ],
@@ -13,7 +13,7 @@
       "chat": 6516711533,
       "amount": 1000,
       "total": 1418,
-      "status": "waiting",
+      "status": "success",
       "expired": 1777906074829,
       "msg_id": 69,
       "bukti": "AgACAgUAAxkBAANGafixZo07ZA-cr9bwoobJxEMZPc0AAokPaxvl-8lX9ZvSGTvUcBkBAAMCAAN5AAM7BA"
