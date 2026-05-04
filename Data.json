@@ -6,5 +6,15 @@
       "coin": 100
     }
   ],
-  "deposits": []
+  "deposits": [
+    {
+      "id": 1777906870919,
+      "user": "CRAZYBOTZZERA",
+      "chat": 6516711533,
+      "amount": 1000,
+      "total": 1179,
+      "status": "pending",
+      "expired": 1777906930919
+    }
+  ]
 }
