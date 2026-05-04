@@ -38,16 +38,6 @@
       "status": "success",
       "expired": 0,
       "bukti": "AgACAgUAAxkBAANwafi9nuoC2nKVWY7ydDwEy8MYwgMAApUPaxvl-8lXhoW4JNu-pvoBAAMCAAN5AAM7BA"
-    },
-    {
-      "id": 1777909991494,
-      "user": "CRAZYBOTZZERA",
-      "chat": 6516711533,
-      "amount": 20000,
-      "total": 20560,
-      "status": "pending",
-      "expired": 1777910051494,
-      "msg_id": 122
     }
   ]
 }
