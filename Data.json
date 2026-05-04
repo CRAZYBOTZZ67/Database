@@ -8,46 +8,6 @@
   ],
   "deposits": [
     {
-      "id": 1777900266405,
-      "user": "CRAZYBOTZZERA",
-      "chat": 6516711533,
-      "amount": 1000,
-      "total": 1907,
-      "status": "rejected",
-      "created": 1777900266405,
-      "expired": 1777900866405,
-      "bukti": "AgACAgUAAxkBAAMKafibJRM-E7at2vzhRTobrKiPE8oAAiEPaxvl-8lX33p6h6_h0AcBAAMCAAN5AAM7BA"
-    },
-    {
-      "id": 1777900406821,
-      "user": "CRAZYBOTZZERA",
-      "chat": 6516711533,
-      "amount": 1000,
-      "total": 1696,
-      "status": "success",
-      "created": 1777900406821,
-      "expired": 1777901006821,
-      "bukti": "AgACAgUAAxkBAAMUafibjKuhWWZsIEMj872uj5BFl8QAAiMPaxvl-8lX2TGiAyoigw8BAAMCAAN5AAM7BA"
-    },
-    {
-      "id": 1777904421365,
-      "user": "CRAZYBOTZZERA",
-      "chat": 6516711533,
-      "amount": 1000,
-      "total": 1403,
-      "status": "success",
-      "bukti": "AgACAgUAAxkBAAMhafisalSz-XSP3tlSy6htN2N0hWgAAn0Paxvl-8lXD9lir7ZlxMIBAAMCAAN5AAM7BA"
-    },
-    {
-      "id": 1777904846849,
-      "user": "CRAZYBOTZZERA",
-      "chat": 6516711533,
-      "amount": 1000,
-      "total": 1213,
-      "status": "rejected",
-      "bukti": "AgACAgUAAxkBAAM0afiu11yXG7j_QWTutUb977LuEuQAAoUPaxvl-8lX42SQ2shvPkcBAAMCAAN5AAM7BA"
-    },
-    {
       "id": 1777905386723,
       "user": "CRAZYBOTZZERA",
       "chat": 6516711533,
