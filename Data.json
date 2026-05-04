@@ -44,7 +44,8 @@
       "chat": 6516711533,
       "amount": 1000,
       "total": 1213,
-      "status": "pending"
+      "status": "waiting",
+      "bukti": "AgACAgUAAxkBAAM0afiu11yXG7j_QWTutUb977LuEuQAAoUPaxvl-8lX42SQ2shvPkcBAAMCAAN5AAM7BA"
     }
   ]
 }
